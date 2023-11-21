@@ -69,7 +69,7 @@ export const MAX_ANOMALIES = 10000;
 export const MAX_HISTORICAL_AGG_RESULTS = 10000;
 
 // TODO: get this value from index settings since it is dynamic
-export const MAX_FEATURE_NUM = 5;
+export const MAX_FEATURE_NUM = 10;
 
 export const MAX_FEATURE_NAME_SIZE = 64;
 
